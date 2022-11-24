@@ -1,0 +1,8 @@
+/* center the div */
+
+.weather {
+  margin: 15rem auto;
+  padding: auto;
+  height: 30rem;
+  width: 20rem;
+}
